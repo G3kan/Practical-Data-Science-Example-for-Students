@@ -1,0 +1,23 @@
+
+Womens Clothing E-Commerce Reviews.csv
+İçerik Bu veri seti 23.486 satır ve 10 özellik değişkeni içermektedir. Her satır bir müşteri incelemesine karşılık gelir ve şu değişkenleri içerir:
+
+Clothing ID (Kıyafet Kimliği): İncelenen spesifik parçayı ifade eden Tam Sayı Kategorik değişken.
+
+Age (Yaş): İncelemeyi yapan kişinin yaşını belirten Pozitif Tam Sayı değişkeni.
+
+Title (Başlık): İncelemenin başlığı için String (metin) değişkeni.
+
+Review Text (İnceleme Metni): İnceleme gövdesi için String (metin) değişkeni.
+
+Rating (Derecelendirme): Müşteri tarafından verilen ürün puanını ifade eden, 1 (En Kötü) ile 5 (En İyi) arasında Pozitif Sıralı Tam Sayı değişkeni.
+
+Recommended IND (Önerilme Durumu): Müşterinin ürünü önerip önermediğini belirten İkili (Binary) değişken; 1 önerilir, 0 önerilmez.
+
+Positive Feedback Count (Olumlu Geri Bildirim Sayısı): Bu incelemeyi olumlu bulan diğer müşterilerin sayısını belgeleyen Pozitif Tam Sayı.
+
+Division Name (Bölüm Adı): Ürünün üst düzey bölümünün kategorik adı.
+
+Department Name (Departman Adı): Ürün departmanının kategorik adı.
+
+Class Name (Sınıf Adı): Ürün sınıfının kategorik adı.
